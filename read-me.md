@@ -9,5 +9,6 @@ The example typeface used in the *Base Type System* is Lato by Łukasz Dziedzic.
 
 Check back for edits and updates.
 
+##License##
 
 This work is licensed under a Creative Commons Attribution 4.0 International License.
