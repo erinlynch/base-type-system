@@ -1,4 +1,4 @@
-#Base Type System#
+<h1>Base Type System</h1>
 
 ##Project Overview
 A solid type system is an essential tool in design. Many times establishing a strong system can be a struggle. Having to start fresh each time can be frustrating. Having a solid starting point for a project’s typographic use is an essential need for any studio or design team. The *Base Type System* is just that, a starting point.
